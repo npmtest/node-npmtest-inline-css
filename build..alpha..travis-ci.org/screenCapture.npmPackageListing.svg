@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 05:07:43 +0000    17640 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 05:07:43 +0000     1080 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 05:07:43 +0000     3904 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 05:07:43 +0000     1027 bytes  index.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 05:07:43 +0000      923 bytes  lib/addProps.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 05:07:43 +0000      968 bytes  lib/handleRule.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 05:07:43 +0000     1780 bytes  lib/inline-css.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 05:07:43 +0000      775 bytes  lib/inlineContent.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 05:07:43 +0000      808 bytes  lib/pseudoCheck.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 05:07:43 +0000      291 bytes  lib/removeClassId.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 05:07:43 +0000      804 bytes  lib/setStyleAttrs.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 05:07:43 +0000     1836 bytes  lib/setTableAttrs.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 05:07:43 +0000      472 bytes  lib/setWidthAttrs.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 05:07:43 +0000     2972 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 05:08:44 +0000    17640 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 05:08:44 +0000     1080 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 05:08:44 +0000     3904 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 05:08:44 +0000     1027 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 05:08:44 +0000      923 bytes  lib/addProps.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 05:08:44 +0000      968 bytes  lib/handleRule.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 05:08:44 +0000     1780 bytes  lib/inline-css.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 05:08:44 +0000      775 bytes  lib/inlineContent.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 05:08:44 +0000      808 bytes  lib/pseudoCheck.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 05:08:44 +0000      291 bytes  lib/removeClassId.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 05:08:44 +0000      804 bytes  lib/setStyleAttrs.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 05:08:44 +0000     1836 bytes  lib/setTableAttrs.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 05:08:44 +0000      472 bytes  lib/setWidthAttrs.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 05:08:44 +0000     2972 bytes  package.json</tspan>
 </text>
 </svg>
